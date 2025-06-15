@@ -86,9 +86,3 @@ streamlit run frontend/streamlit_chat.py
 - Titan model requests are made using `inputText` in Bedrock Runtime
 - Metrics are stored in `app.state` for persistence across requests
 - Monitoring is purely local and resets on backend restart
-
-## License
-This project is provided for educational and demonstration purposes only.
-
-## Authors
-Developed by Rajiv Raman
