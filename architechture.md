@@ -27,7 +27,7 @@ The system is composed of three tightly integrated layers:
 
 ---
 
-## Component Diagram
+## Component Diagram (built with ChatGPT)
 
 ```plaintext
 +---------------------+        +---------------------+        +-----------------------------+
