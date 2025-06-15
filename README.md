@@ -1,4 +1,7 @@
-# Titan-Powered Full-Stack AI Chat Application
+# AIPI 561 (Operationalizing AI) - Week 9 Project
+### Author: Rajiv Raman
+### Institution: Duke University
+### Date: June 15th, 2025
 
 ## Overview
 This application is a secure, full-stack AI assistant that integrates Amazon Bedrock's Titan language model. Built using FastAPI (backend) and Streamlit (frontend), it supports authenticated chat interactions, performance monitoring, and model analytics.
